@@ -22,15 +22,15 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "68K Address Error"
+msgid "System Hardware"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Core-Provided Aspect Ratio"
+msgid "System Region"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Audio Filter"
+msgid "System Lock-Ups"
 msgstr ""
 
 msgctxt "#30004"
@@ -38,177 +38,177 @@ msgid "System Boot ROM"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Blargg NTSC Filter"
-msgstr ""
-
-msgctxt "#30006"
 msgid "CD System BRAM"
 msgstr ""
 
+msgctxt "#30006"
+msgid "68K Address Error"
+msgstr ""
+
 msgctxt "#30007"
-msgid "FM Preamp Level"
-msgstr ""
-
-msgctxt "#30008"
-msgid "System Lock-Ups"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Frameskip"
-msgstr ""
-
-msgctxt "#30010"
-msgid "Frameskip Threshold (%)"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Game Gear Extended Screen"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Show Light Gun Crosshair"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Light Gun Input"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Invert Mouse Y-Axis"
-msgstr ""
-
-msgctxt "#30015"
-msgid "LCD Ghosting Filter"
-msgstr ""
-
-msgctxt "#30016"
-msgid "Hide Master System Left Border"
-msgstr ""
-
-msgctxt "#30017"
 msgid "Cartridge Lock-On"
 msgstr ""
 
-msgctxt "#30018"
-msgid "Low-Pass Filter %"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Mega Drive / Genesis FM Channel 0 Volume %"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Mega Drive / Genesis FM Channel 1 Volume %"
-msgstr ""
-
-msgctxt "#30021"
-msgid "Mega Drive / Genesis FM Channel 2 Volume %"
-msgstr ""
-
-msgctxt "#30022"
-msgid "Mega Drive / Genesis FM Channel 3 Volume %"
-msgstr ""
-
-msgctxt "#30023"
-msgid "Mega Drive / Genesis FM Channel 4 Volume %"
-msgstr ""
-
-msgctxt "#30024"
-msgid "Mega Drive / Genesis FM Channel 5 Volume %"
-msgstr ""
-
-msgctxt "#30025"
-msgid "Remove Per-Line Sprite Limit"
-msgstr ""
-
-msgctxt "#30026"
-msgid "CPU Speed"
-msgstr ""
-
-msgctxt "#30027"
-msgid "Borders"
-msgstr ""
-
-msgctxt "#30028"
-msgid "PSG Tone Channel 0 Volume %"
-msgstr ""
-
-msgctxt "#30029"
-msgid "PSG Tone Channel 1 Volume %"
-msgstr ""
-
-msgctxt "#30030"
-msgid "PSG Tone Channel 2 Volume %"
-msgstr ""
-
-msgctxt "#30031"
-msgid "PSG Noise Channel 3 Volume %"
-msgstr ""
-
-msgctxt "#30032"
-msgid "PSG Preamp Level"
-msgstr ""
-
-msgctxt "#30033"
-msgid "System Region"
-msgstr ""
-
-msgctxt "#30034"
-msgid "Interlaced Mode 2 Output"
-msgstr ""
-
-msgctxt "#30035"
-msgid "Show Advanced Audio Volume Settings (Reopen menu)"
-msgstr ""
-
-msgctxt "#30036"
-msgid "Master System FM (YM2413) Channel 0 Volume %"
-msgstr ""
-
-msgctxt "#30037"
-msgid "Master System FM (YM2413) Channel 1 Volume %"
-msgstr ""
-
-msgctxt "#30038"
-msgid "Master System FM (YM2413) Channel 2 Volume %"
-msgstr ""
-
-msgctxt "#30039"
-msgid "Master System FM (YM2413) Channel 3 Volume %"
-msgstr ""
-
-msgctxt "#30040"
-msgid "Master System FM (YM2413) Channel 4 Volume %"
-msgstr ""
-
-msgctxt "#30041"
-msgid "Master System FM (YM2413) Channel 5 Volume %"
-msgstr ""
-
-msgctxt "#30042"
-msgid "Master System FM (YM2413) Channel 6 Volume %"
-msgstr ""
-
-msgctxt "#30043"
-msgid "Master System FM (YM2413) Channel 7 Volume %"
-msgstr ""
-
-msgctxt "#30044"
-msgid "Master System FM (YM2413) Channel 8 Volume %"
-msgstr ""
-
-msgctxt "#30045"
-msgid "Sound Output"
-msgstr ""
-
-msgctxt "#30046"
-msgid "System Hardware"
-msgstr ""
-
-msgctxt "#30047"
+msgctxt "#30008"
 msgid "Master System FM (YM2413)"
 msgstr ""
 
-msgctxt "#30048"
+msgctxt "#30009"
 msgid "Mega Drive / Genesis FM"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Sound Output"
+msgstr ""
+
+msgctxt "#30011"
+msgid "PSG Preamp Level"
+msgstr ""
+
+msgctxt "#30012"
+msgid "FM Preamp Level"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Audio Filter"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Low-Pass Filter %"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Frameskip Threshold (%)"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Blargg NTSC Filter"
+msgstr ""
+
+msgctxt "#30018"
+msgid "LCD Ghosting Filter"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Borders"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Game Gear Extended Screen"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Hide Master System Left Border"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Core-Provided Aspect Ratio"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Interlaced Mode 2 Output"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Show Light Gun Crosshair"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Light Gun Input"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Invert Mouse Y-Axis"
+msgstr ""
+
+msgctxt "#30027"
+msgid "CPU Speed"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Remove Per-Line Sprite Limit"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Show Advanced Audio Volume Settings (Reopen menu)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "PSG Tone Channel 0 Volume %"
+msgstr ""
+
+msgctxt "#30031"
+msgid "PSG Tone Channel 1 Volume %"
+msgstr ""
+
+msgctxt "#30032"
+msgid "PSG Tone Channel 2 Volume %"
+msgstr ""
+
+msgctxt "#30033"
+msgid "PSG Noise Channel 3 Volume %"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Mega Drive / Genesis FM Channel 0 Volume %"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Mega Drive / Genesis FM Channel 1 Volume %"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Mega Drive / Genesis FM Channel 2 Volume %"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Mega Drive / Genesis FM Channel 3 Volume %"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Mega Drive / Genesis FM Channel 4 Volume %"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Mega Drive / Genesis FM Channel 5 Volume %"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Master System FM (YM2413) Channel 0 Volume %"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Master System FM (YM2413) Channel 1 Volume %"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Master System FM (YM2413) Channel 2 Volume %"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Master System FM (YM2413) Channel 3 Volume %"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Master System FM (YM2413) Channel 4 Volume %"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Master System FM (YM2413) Channel 5 Volume %"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Master System FM (YM2413) Channel 6 Volume %"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Master System FM (YM2413) Channel 7 Volume %"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Master System FM (YM2413) Channel 8 Volume %"
 msgstr ""
