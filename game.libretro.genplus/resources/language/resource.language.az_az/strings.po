@@ -57,7 +57,7 @@ msgid "Borders"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Hide Master System Left Border"
+msgid "Hide Master System Side Borders"
 msgstr ""
 
 msgctxt "#30009"
