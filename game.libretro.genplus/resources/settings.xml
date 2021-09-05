@@ -8,7 +8,7 @@
 		<setting label="30005" type="select" id="genesis_plus_gx_lock_on" values="disabled|game genie|action replay (pro)|sonic &amp; knuckles" default="disabled"/>
 		<setting label="30006" type="select" id="genesis_plus_gx_aspect_ratio" values="auto|NTSC PAR|PAL PAR" default="auto"/>
 		<setting label="30007" type="select" id="genesis_plus_gx_overscan" values="disabled|top/bottom|left/right|full" default="disabled"/>
-		<setting label="30008" type="select" id="genesis_plus_gx_left_border" values="disabled|enabled" default="disabled"/>
+		<setting label="30008" type="select" id="genesis_plus_gx_left_border" values="disabled|left border|left &amp; right borders" default="disabled"/>
 		<setting label="30009" type="select" id="genesis_plus_gx_gg_extra" values="disabled|enabled" default="disabled"/>
 		<setting label="30010" type="select" id="genesis_plus_gx_blargg_ntsc_filter" values="disabled|monochrome|composite|svideo|rgb" default="disabled"/>
 		<setting label="30011" type="select" id="genesis_plus_gx_lcd_filter" values="disabled|enabled" default="disabled"/>
