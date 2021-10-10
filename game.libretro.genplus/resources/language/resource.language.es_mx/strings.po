@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive &amp; Mega CD hardware."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Special thanks to twinaphex for backporting enhancements from the GX version"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"
