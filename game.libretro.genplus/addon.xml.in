@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.genplus"
 		name="Sega - MS/GG/MD/CD (Genesis Plus GX)"
-		version="1.7.4.24"
+		version="1.7.4.25"
 		provider-name="Charles McDonald, Eke-Eke">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -27,8 +27,8 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<disclaimer>Special thanks to twinaphex for backporting enhancements from the GX version</disclaimer>
 		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX) v1.7.4</summary>
 		<description lang="en_GB">Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive &amp; Mega CD hardware.</description>
+		<disclaimer lang="en_GB">Special thanks to twinaphex for backporting enhancements from the GX version</disclaimer>
 	</extension>
 </addon>
