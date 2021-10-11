@@ -21,7 +21,7 @@ msgid "Sega - MS/GG/MD/CD (Genesis Plus GX) v1.7.4"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive & Mega CD hardware."
+msgid "Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive and Mega CD hardware."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
