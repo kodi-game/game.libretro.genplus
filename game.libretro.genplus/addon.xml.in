@@ -28,7 +28,9 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX) v1.7.4</summary>
+		<description lang="da_DK">Genesis Plus GX er en forbedret port af Genesis Plus til libretro API.[CR][CR]Understøtter SG-1000, Mark-III, Master System, Game Gear, Mega Drive og Mega CD hardware.</description>
 		<description lang="en_GB">Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive and Mega CD hardware.</description>
+		<disclaimer lang="da_DK">Særlig tak til twinaphex for backporting-forbedringer fra GX-versionen</disclaimer>
 		<disclaimer lang="en_GB">Special thanks to twinaphex for backporting enhancements from the GX version</disclaimer>
 	</extension>
 </addon>
