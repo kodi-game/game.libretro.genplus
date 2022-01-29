@@ -102,7 +102,7 @@ msgid "Master System FM (YM2413) Core"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Mega Drive / Genesis FM"
+msgid "Mega Drive/Genesis FM"
 msgstr ""
 
 msgctxt "#30019"
@@ -178,27 +178,27 @@ msgid "PSG Noise Channel 3 Volume %"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Mega Drive / Genesis FM Channel 0 Volume %"
+msgid "Mega Drive/Genesis FM Channel 0 Volume %"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Mega Drive / Genesis FM Channel 1 Volume %"
+msgid "Mega Drive/Genesis FM Channel 1 Volume %"
 msgstr ""
 
 msgctxt "#30039"
-msgid "Mega Drive / Genesis FM Channel 2 Volume %"
+msgid "Mega Drive/Genesis FM Channel 2 Volume %"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Mega Drive / Genesis FM Channel 3 Volume %"
+msgid "Mega Drive/Genesis FM Channel 3 Volume %"
 msgstr ""
 
 msgctxt "#30041"
-msgid "Mega Drive / Genesis FM Channel 4 Volume %"
+msgid "Mega Drive/Genesis FM Channel 4 Volume %"
 msgstr ""
 
 msgctxt "#30042"
-msgid "Mega Drive / Genesis FM Channel 5 Volume %"
+msgid "Mega Drive/Genesis FM Channel 5 Volume %"
 msgstr ""
 
 msgctxt "#30043"

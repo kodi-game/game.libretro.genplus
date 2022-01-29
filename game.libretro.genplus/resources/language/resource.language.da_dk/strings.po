@@ -102,8 +102,8 @@ msgid "Master System FM (YM2413) Core"
 msgstr "Master System FM (YM2413) kerne"
 
 msgctxt "#30018"
-msgid "Mega Drive / Genesis FM"
-msgstr "Mega drev / Genesis FM"
+msgid "Mega Drive/Genesis FM"
+msgstr ""
 
 msgctxt "#30019"
 msgid "Sound Output"
@@ -178,28 +178,28 @@ msgid "PSG Noise Channel 3 Volume %"
 msgstr "PSG tonekanal 3 lydstyrke %"
 
 msgctxt "#30037"
-msgid "Mega Drive / Genesis FM Channel 0 Volume %"
-msgstr "Mega drev / Genesis FM-kanal 0 lydstyrke %"
+msgid "Mega Drive/Genesis FM Channel 0 Volume %"
+msgstr ""
 
 msgctxt "#30038"
-msgid "Mega Drive / Genesis FM Channel 1 Volume %"
-msgstr "Mega drev / Genesis FM-kanal 1 lydstyrke %"
+msgid "Mega Drive/Genesis FM Channel 1 Volume %"
+msgstr ""
 
 msgctxt "#30039"
-msgid "Mega Drive / Genesis FM Channel 2 Volume %"
-msgstr "Mega drev / Genesis FM-kanal 2 lydstyrke %"
+msgid "Mega Drive/Genesis FM Channel 2 Volume %"
+msgstr ""
 
 msgctxt "#30040"
-msgid "Mega Drive / Genesis FM Channel 3 Volume %"
-msgstr "Mega drev / Genesis FM-kanal 3 lydstyrke %"
+msgid "Mega Drive/Genesis FM Channel 3 Volume %"
+msgstr ""
 
 msgctxt "#30041"
-msgid "Mega Drive / Genesis FM Channel 4 Volume %"
-msgstr "Mega drev / Genesis FM-kanal 4 lydstyrke %"
+msgid "Mega Drive/Genesis FM Channel 4 Volume %"
+msgstr ""
 
 msgctxt "#30042"
-msgid "Mega Drive / Genesis FM Channel 5 Volume %"
-msgstr "Mega drev / Genesis FM-kanal 5 lydstyrke %"
+msgid "Mega Drive/Genesis FM Channel 5 Volume %"
+msgstr ""
 
 msgctxt "#30043"
 msgid "Master System FM (YM2413) Channel 0 Volume %"
@@ -236,3 +236,31 @@ msgstr "Master System FM (YM2413) kanal 7 lydstyrke %"
 msgctxt "#30051"
 msgid "Master System FM (YM2413) Channel 8 Volume %"
 msgstr "Master System FM (YM2413) kanal 8 lydstyrke %"
+
+#~ msgctxt "#30018"
+#~ msgid "Mega Drive / Genesis FM"
+#~ msgstr "Mega drev / Genesis FM"
+
+#~ msgctxt "#30037"
+#~ msgid "Mega Drive / Genesis FM Channel 0 Volume %"
+#~ msgstr "Mega drev / Genesis FM-kanal 0 lydstyrke %"
+
+#~ msgctxt "#30038"
+#~ msgid "Mega Drive / Genesis FM Channel 1 Volume %"
+#~ msgstr "Mega drev / Genesis FM-kanal 1 lydstyrke %"
+
+#~ msgctxt "#30039"
+#~ msgid "Mega Drive / Genesis FM Channel 2 Volume %"
+#~ msgstr "Mega drev / Genesis FM-kanal 2 lydstyrke %"
+
+#~ msgctxt "#30040"
+#~ msgid "Mega Drive / Genesis FM Channel 3 Volume %"
+#~ msgstr "Mega drev / Genesis FM-kanal 3 lydstyrke %"
+
+#~ msgctxt "#30041"
+#~ msgid "Mega Drive / Genesis FM Channel 4 Volume %"
+#~ msgstr "Mega drev / Genesis FM-kanal 4 lydstyrke %"
+
+#~ msgctxt "#30042"
+#~ msgid "Mega Drive / Genesis FM Channel 5 Volume %"
+#~ msgstr "Mega drev / Genesis FM-kanal 5 lydstyrke %"
