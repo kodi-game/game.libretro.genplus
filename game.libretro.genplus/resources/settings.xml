@@ -33,24 +33,25 @@
 		<setting label="30030" type="select" id="genesis_plus_gx_overclock" values="100%|125%|150%|175%|200%" default="100%"/>
 		<setting label="30031" type="select" id="genesis_plus_gx_force_dtack" values="enabled|disabled" default="enabled"/>
 		<setting label="30032" type="select" id="genesis_plus_gx_addr_error" values="enabled|disabled" default="enabled"/>
-		<setting label="30033" type="select" id="genesis_plus_gx_psg_channel_0_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30034" type="select" id="genesis_plus_gx_psg_channel_1_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30035" type="select" id="genesis_plus_gx_psg_channel_2_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30036" type="select" id="genesis_plus_gx_psg_channel_3_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30037" type="select" id="genesis_plus_gx_md_channel_0_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30038" type="select" id="genesis_plus_gx_md_channel_1_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30039" type="select" id="genesis_plus_gx_md_channel_2_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30040" type="select" id="genesis_plus_gx_md_channel_3_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30041" type="select" id="genesis_plus_gx_md_channel_4_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30042" type="select" id="genesis_plus_gx_md_channel_5_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30043" type="select" id="genesis_plus_gx_sms_fm_channel_0_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30044" type="select" id="genesis_plus_gx_sms_fm_channel_1_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30045" type="select" id="genesis_plus_gx_sms_fm_channel_2_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30046" type="select" id="genesis_plus_gx_sms_fm_channel_3_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30047" type="select" id="genesis_plus_gx_sms_fm_channel_4_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30048" type="select" id="genesis_plus_gx_sms_fm_channel_5_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30049" type="select" id="genesis_plus_gx_sms_fm_channel_6_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30050" type="select" id="genesis_plus_gx_sms_fm_channel_7_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
-		<setting label="30051" type="select" id="genesis_plus_gx_sms_fm_channel_8_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30033" type="select" id="genesis_plus_gx_cd_latency" values="enabled|disabled" default="enabled"/>
+		<setting label="30034" type="select" id="genesis_plus_gx_psg_channel_0_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30035" type="select" id="genesis_plus_gx_psg_channel_1_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30036" type="select" id="genesis_plus_gx_psg_channel_2_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30037" type="select" id="genesis_plus_gx_psg_channel_3_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30038" type="select" id="genesis_plus_gx_md_channel_0_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30039" type="select" id="genesis_plus_gx_md_channel_1_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30040" type="select" id="genesis_plus_gx_md_channel_2_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30041" type="select" id="genesis_plus_gx_md_channel_3_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30042" type="select" id="genesis_plus_gx_md_channel_4_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30043" type="select" id="genesis_plus_gx_md_channel_5_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30044" type="select" id="genesis_plus_gx_sms_fm_channel_0_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30045" type="select" id="genesis_plus_gx_sms_fm_channel_1_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30046" type="select" id="genesis_plus_gx_sms_fm_channel_2_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30047" type="select" id="genesis_plus_gx_sms_fm_channel_3_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30048" type="select" id="genesis_plus_gx_sms_fm_channel_4_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30049" type="select" id="genesis_plus_gx_sms_fm_channel_5_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30050" type="select" id="genesis_plus_gx_sms_fm_channel_6_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30051" type="select" id="genesis_plus_gx_sms_fm_channel_7_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30052" type="select" id="genesis_plus_gx_sms_fm_channel_8_volume" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
 	</category>
 </settings>
