@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.genplus\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2022-11-26 00:39+0000\n"
+"PO-Revision-Date: 2022-12-06 06:49+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-genplus/it_it/>\n"
 "Language: it_it\n"
@@ -23,11 +23,11 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive and Mega CD hardware."
-msgstr ""
+msgstr "Genesis Plus GX è un port avanzato di Genesis Plus per l'API libretro.[CR][CR]Include il supporto per l'hardware SG-1000, Mark-III, Master System, Game Gear, Mega Drive e Mega CD."
 
 msgctxt "Addon Disclaimer"
 msgid "Special thanks to twinaphex for backporting enhancements from the GX version"
-msgstr ""
+msgstr "Un ringraziamento speciale a twinaphex per i miglioramenti apportati al backport dalla versione GX"
 
 msgctxt "#30000"
 msgid "Settings"
@@ -35,15 +35,15 @@ msgstr "Impostazioni"
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "Hardware di sistema"
 
 msgctxt "#30002"
 msgid "System Region"
-msgstr ""
+msgstr "Regione del sistema"
 
 msgctxt "#30003"
 msgid "System Boot ROM"
-msgstr ""
+msgstr "ROM di avvio del sistema"
 
 msgctxt "#30004"
 msgid "CD System BRAM"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Cartridge Lock-On"
-msgstr ""
+msgstr "Blocco della cartuccia"
 
 msgctxt "#30007"
 msgid "Core-Provided Aspect Ratio"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Frameskip"
-msgstr "Salta fotogrammi"
+msgstr "Salto fotogrammi"
 
 msgctxt "#30015"
 msgid "Frameskip Threshold (%)"
@@ -103,35 +103,35 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Mega Drive/Genesis FM"
-msgstr ""
+msgstr "Mega Drive/Genesis FM"
 
 msgctxt "#30019"
 msgid "Sound Output"
-msgstr ""
+msgstr "Uscita audio"
 
 msgctxt "#30020"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtro audio"
 
 msgctxt "#30021"
 msgid "Low-Pass Filter %"
-msgstr ""
+msgstr "Filtro passa basso %"
 
 msgctxt "#30022"
 msgid "PSG Preamp Level"
-msgstr ""
+msgstr "Livello preamplificatore PSG"
 
 msgctxt "#30023"
 msgid "FM Preamp Level"
-msgstr ""
+msgstr "Livello preamplificatore FM"
 
 msgctxt "#30024"
 msgid "CD-DA Volume"
-msgstr ""
+msgstr "Volume CD-DA"
 
 msgctxt "#30025"
 msgid "PCM Volume"
-msgstr ""
+msgstr "Volume PCM"
 
 msgctxt "#30026"
 msgid "Light Gun Input"
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "CPU Speed"
-msgstr ""
+msgstr "Velocità CPU"
 
 msgctxt "#30031"
 msgid "System Lock-Ups"
