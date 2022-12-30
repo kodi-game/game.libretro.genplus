@@ -35,6 +35,7 @@
 		<disclaimer lang="da_DK">Særlig tak til twinaphex for backporting-forbedringer fra GX-versionen</disclaimer>
 		<disclaimer lang="en_GB">Special thanks to twinaphex for backporting enhancements from the GX version</disclaimer>
 		<disclaimer lang="it_IT">Un ringraziamento speciale a twinaphex per i miglioramenti apportati al backport dalla versione GX</disclaimer>
+		<disclaimer lang="ru_RU">Особая благодарность twinaphex за перенос улучшений из версии GX</disclaimer>
 		<disclaimer lang="zh_CN">特别感谢 twinaphex 从 GX 版本中移植了增强功能</disclaimer>
 	</extension>
 </addon>
