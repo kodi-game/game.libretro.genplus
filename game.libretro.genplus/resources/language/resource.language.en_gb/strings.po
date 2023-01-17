@@ -149,101 +149,93 @@ msgid "Remove Per-Line Sprite Limit"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Enhanced per-tile vertical scroll"
-msgstr ""
-
-msgctxt "#30031"
-msgid "Enhanced per-tile vertical scroll limit"
-msgstr ""
-
-msgctxt "#30032"
 msgid "CPU Speed"
 msgstr ""
 
-msgctxt "#30033"
+msgctxt "#30031"
 msgid "System Lock-Ups"
 msgstr ""
 
-msgctxt "#30034"
+msgctxt "#30032"
 msgid "68K Address Error"
 msgstr ""
 
-msgctxt "#30035"
+msgctxt "#30033"
 msgid "CD access time"
 msgstr ""
 
-msgctxt "#30036"
+msgctxt "#30034"
 msgid "PSG Tone Channel 0 Volume %"
 msgstr ""
 
-msgctxt "#30037"
+msgctxt "#30035"
 msgid "PSG Tone Channel 1 Volume %"
 msgstr ""
 
-msgctxt "#30038"
+msgctxt "#30036"
 msgid "PSG Tone Channel 2 Volume %"
 msgstr ""
 
-msgctxt "#30039"
+msgctxt "#30037"
 msgid "PSG Noise Channel 3 Volume %"
 msgstr ""
 
-msgctxt "#30040"
+msgctxt "#30038"
 msgid "Mega Drive/Genesis FM Channel 0 Volume %"
 msgstr ""
 
-msgctxt "#30041"
+msgctxt "#30039"
 msgid "Mega Drive/Genesis FM Channel 1 Volume %"
 msgstr ""
 
-msgctxt "#30042"
+msgctxt "#30040"
 msgid "Mega Drive/Genesis FM Channel 2 Volume %"
 msgstr ""
 
-msgctxt "#30043"
+msgctxt "#30041"
 msgid "Mega Drive/Genesis FM Channel 3 Volume %"
 msgstr ""
 
-msgctxt "#30044"
+msgctxt "#30042"
 msgid "Mega Drive/Genesis FM Channel 4 Volume %"
 msgstr ""
 
-msgctxt "#30045"
+msgctxt "#30043"
 msgid "Mega Drive/Genesis FM Channel 5 Volume %"
 msgstr ""
 
-msgctxt "#30046"
+msgctxt "#30044"
 msgid "Master System FM (YM2413) Channel 0 Volume %"
 msgstr ""
 
-msgctxt "#30047"
+msgctxt "#30045"
 msgid "Master System FM (YM2413) Channel 1 Volume %"
 msgstr ""
 
-msgctxt "#30048"
+msgctxt "#30046"
 msgid "Master System FM (YM2413) Channel 2 Volume %"
 msgstr ""
 
-msgctxt "#30049"
+msgctxt "#30047"
 msgid "Master System FM (YM2413) Channel 3 Volume %"
 msgstr ""
 
-msgctxt "#30050"
+msgctxt "#30048"
 msgid "Master System FM (YM2413) Channel 4 Volume %"
 msgstr ""
 
-msgctxt "#30051"
+msgctxt "#30049"
 msgid "Master System FM (YM2413) Channel 5 Volume %"
 msgstr ""
 
-msgctxt "#30052"
+msgctxt "#30050"
 msgid "Master System FM (YM2413) Channel 6 Volume %"
 msgstr ""
 
-msgctxt "#30053"
+msgctxt "#30051"
 msgid "Master System FM (YM2413) Channel 7 Volume %"
 msgstr ""
 
-msgctxt "#30054"
+msgctxt "#30052"
 msgid "Master System FM (YM2413) Channel 8 Volume %"
 msgstr ""
