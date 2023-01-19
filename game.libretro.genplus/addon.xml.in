@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.genplus"
 		name="Sega - MS/GG/MD/CD (Genesis Plus GX)"
-		version="1.7.4.38"
+		version="1.7.4.39"
 		provider-name="Charles McDonald, Eke-Eke">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
