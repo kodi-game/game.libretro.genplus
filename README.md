@@ -15,7 +15,7 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.genplus/resources/icon.png)
+![Sega - MS/GG/MD/CD (Genesis Plus GX) icon](game.libretro.genplus/resources/icon.png)
 
 ### Fanart
 
@@ -23,9 +23,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.genplus/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.genplus/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.genplus/resources/screenshot-03.jpg)
+![Sega - MS/GG/MD/CD (Genesis Plus GX) screenshot](game.libretro.genplus/resources/screenshot-01.jpg)
+![Sega - MS/GG/MD/CD (Genesis Plus GX) screenshot](game.libretro.genplus/resources/screenshot-02.jpg)
+![Sega - MS/GG/MD/CD (Genesis Plus GX) screenshot](game.libretro.genplus/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
