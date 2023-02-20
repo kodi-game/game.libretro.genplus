@@ -32,7 +32,7 @@
 		<setting label="30029" type="select" id="genesis_plus_gx_no_sprite_limit" values="disabled|enabled" default="disabled"/>
 		<setting label="30030" type="select" id="genesis_plus_gx_enhanced_vscroll" values="disabled|enabled" default="disabled"/>
 		<setting label="30031" type="select" id="genesis_plus_gx_enhanced_vscroll_limit" values="8|2|3|4|5|6|7|9|10|11|12|13|14|15|16" default="8"/>
-		<setting label="30032" type="select" id="genesis_plus_gx_overclock" values="100%|125%|150%|175%|200%" default="100%"/>
+		<setting label="30032" type="select" id="genesis_plus_gx_overclock" values="100|125|150|175|200|225|250|275|300|325|350|375|400|425|450|475|500" default="100"/>
 		<setting label="30033" type="select" id="genesis_plus_gx_force_dtack" values="enabled|disabled" default="enabled"/>
 		<setting label="30034" type="select" id="genesis_plus_gx_addr_error" values="enabled|disabled" default="enabled"/>
 		<setting label="30035" type="select" id="genesis_plus_gx_cd_latency" values="enabled|disabled" default="enabled"/>
