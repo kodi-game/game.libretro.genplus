@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Sega - MS/GG/MD/CD (Genesis Plus GX) v1.7.4"
+msgid "Sega - MS/GG/MD/CD (Genesis Plus GX)"
 msgstr ""
 
 msgctxt "Addon Description"
