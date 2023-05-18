@@ -29,6 +29,7 @@
 		</assets>
 		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="es_ES">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
+		<summary lang="zh_CN">世嘉 - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<description lang="da_DK">Genesis Plus GX er en forbedret port af Genesis Plus til libretro API.[CR][CR]Understøtter SG-1000, Mark-III, Master System, Game Gear, Mega Drive og Mega CD hardware.</description>
 		<description lang="de_DE">Genesis Plus GX ist eine erweiterte Umsetzung von Genesis Plus auf die Libretro-API und bietet Unterstützung für SG-1000, Mark-III, Master System, Game Gear, Mega Drive und Mega CD Hardware.</description>
 		<description lang="en_GB">Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive and Mega CD hardware.</description>
