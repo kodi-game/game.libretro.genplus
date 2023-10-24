@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.genplus"
 		name="Sega - MS/GG/MD/CD (Genesis Plus GX)"
-		version="1.7.4.55"
+		version="1.7.4.56"
 		provider-name="Charles McDonald, Eke-Eke">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
+		<import addon="game.controller.genesis.3button" version="1.0.0"/>
 		<import addon="game.controller.genesis.6button" version="1.0.0"/>
 		<import addon="game.controller.genesis.mouse" version="1.0.0"/>
+		<import addon="game.controller.genesis.4wayplay" version="1.0.0"/>
+		<import addon="game.controller.genesis.teamplayer" version="1.0.0"/>
 		<import addon="resource.games.libretro.restricted" version="1.0.0" optional="true"/>
 	</requires>
 	<extension point="kodi.gameclient"
