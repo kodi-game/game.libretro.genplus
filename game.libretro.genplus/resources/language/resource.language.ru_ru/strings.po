@@ -189,10 +189,6 @@ msgctxt "#30039"
 msgid "68K Address Error"
 msgstr ""
 
-msgctxt "#30040"
-msgid "CD access time"
-msgstr ""
-
 msgctxt "#30041"
 msgid "PSG Tone Channel 0 Volume %"
 msgstr ""
@@ -267,6 +263,18 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Master System FM (YM2413) Channel 8 Volume %"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Force VDP Mode"
+msgstr ""
+
+msgctxt "#30061"
+msgid "CD Access Time"
+msgstr ""
+
+msgctxt "#30062"
+msgid "CD Image Cache"
 msgstr ""
 
 #~ msgctxt "#30007"
