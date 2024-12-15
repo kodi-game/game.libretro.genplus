@@ -28,9 +28,7 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to twinaphex for backporting enhancements from the GX version"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
+# Empty string with ID 30000
 
 msgctxt "#30001"
 msgid "System Hardware"

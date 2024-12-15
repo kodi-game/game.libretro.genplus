@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="genesis_plus_gx_system_hw" values="auto|sg-1000|sg-1000 II|sg-1000 II + ram ext.|mark-III|master system|master system II|game gear|mega drive / genesis" default="auto"/>
 		<setting label="30002" type="select" id="genesis_plus_gx_region_detect" values="auto|ntsc-u|pal|ntsc-j" default="auto"/>
 		<setting label="30060" type="select" id="genesis_plus_gx_vdp_mode" values="auto|60hz|50hz" default="auto"/>
