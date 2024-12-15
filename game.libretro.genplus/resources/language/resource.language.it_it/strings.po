@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to twinaphex for backporting enhancements from the GX version"
 msgstr "Un ringraziamento speciale a twinaphex per i miglioramenti apportati al backport dalla versione GX"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "System Hardware"
 msgstr "Hardware di sistema"
@@ -276,6 +272,10 @@ msgstr ""
 msgctxt "#30062"
 msgid "CD Image Cache"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
 
 #~ msgctxt "#30034"
 #~ msgid "CPU Speed"

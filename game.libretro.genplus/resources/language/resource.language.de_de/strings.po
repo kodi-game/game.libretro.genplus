@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to twinaphex for backporting enhancements from the GX version"
 msgstr "Besonderen Dank an twinaphex für die Rückportierung von Erweiterungen aus der GX-Version"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "System Hardware"
 msgstr "Systemhardware"
@@ -276,6 +272,10 @@ msgstr ""
 msgctxt "#30062"
 msgid "CD Image Cache"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
 
 #~ msgctxt "#30004"
 #~ msgid "CD System BRAM"

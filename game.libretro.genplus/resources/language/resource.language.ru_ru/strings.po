@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to twinaphex for backporting enhancements from the GX version"
 msgstr "Особая благодарность twinaphex за перенос улучшений из версии GX"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Настройки"
-
 msgctxt "#30001"
 msgid "System Hardware"
 msgstr "Оборудование системы"
@@ -276,6 +272,10 @@ msgstr ""
 msgctxt "#30062"
 msgid "CD Image Cache"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Настройки"
 
 #~ msgctxt "#30007"
 #~ msgid "Cartridge Lock-On"

@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to twinaphex for backporting enhancements from the GX version"
 msgstr "特别感谢 twinaphex 从 GX 版本中移植了增强功能"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "System Hardware"
 msgstr "系统硬件"
@@ -276,6 +272,10 @@ msgstr ""
 msgctxt "#30062"
 msgid "CD Image Cache"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30028"
 #~ msgid "Light Gun Input"
