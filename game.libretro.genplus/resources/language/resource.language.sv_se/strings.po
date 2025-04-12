@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.genplus\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-12 12:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-genplus/sv_se/>\n"
 "Language: sv_se\n"
@@ -37,37 +37,45 @@ msgctxt "#30002"
 msgid "System Region"
 msgstr "Systemregion"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "System Boot ROM"
-msgstr ""
+msgstr "Systemets start-ROM"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "CD System BRAM (Requires Restart)"
-msgstr ""
+msgstr "CD-system BRAM (kräver omstart)"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "CD Backup Cart BRAM (Requires Restart)"
-msgstr ""
+msgstr "CD Backup Cart BRAM (kräver omstart)"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "CD Backup Cart BRAM Size (Requires Restart)"
-msgstr ""
+msgstr "CD Backup Cart BRAM Storlek (kräver omstart)"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "CD add-on (MD mode) (Requires Restart)"
-msgstr ""
+msgstr "CD-tillägg (MD-läge) (kräver omstart)"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Cartridge Lock-On"
-msgstr ""
+msgstr "Patronlåsning"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Aspect Ratio som tillhandahålls av Core"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Borders"
-msgstr ""
+msgstr "Ramar"
 
 msgctxt "#30011"
 msgid "Hide Master System Side Borders"
