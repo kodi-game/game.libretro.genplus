@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.genplus\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-12 12:26+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-genplus/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Sega - MS/GG/MD/CD (Genesis Plus GX)"
@@ -72,214 +72,244 @@ msgctxt "#30009"
 msgid "Core-Provided Aspect Ratio"
 msgstr "Aspect Ratio som tillhandahålls av Core"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Borders"
 msgstr "Ramar"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Hide Master System Side Borders"
-msgstr ""
+msgstr "Hide Master System Side Borders"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Game Gear Extended Screen"
-msgstr ""
+msgstr "Game Gear utökad skärm"
 
 msgctxt "#30013"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Blargg NTSC-filter"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "LCD Ghosting Filter"
-msgstr ""
+msgstr "LCD-SPÖKEFFEKTFILTER"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "Interlaced Mode 2 Output"
-msgstr ""
+msgstr "Interlaced Mode 2 Utgång"
 
 msgctxt "#30016"
 msgid "Frameskip"
-msgstr ""
+msgstr "Hoppa över bildrutor"
 
 msgctxt "#30017"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Tröskelvärde för bildöverhoppning (%)"
 
 msgctxt "#30018"
 msgid "Master System FM (YM2413)"
-msgstr ""
+msgstr "Master System FM (YM2413)"
 
 msgctxt "#30019"
 msgid "Master System FM (YM2413) Core"
-msgstr ""
+msgstr "Master System FM-kärna (YM2413)"
 
 msgctxt "#30020"
 msgid "Mega Drive/Genesis FM"
-msgstr ""
+msgstr "Mega Drive/Genesis FM"
 
 msgctxt "#30021"
 msgid "Sound Output"
-msgstr ""
+msgstr "Ljudutgång"
 
 msgctxt "#30022"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Ljudfilter"
 
 msgctxt "#30023"
 msgid "Low-Pass Filter %"
-msgstr ""
+msgstr "Lågpassfilter %"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "PSG Preamp Level"
-msgstr ""
+msgstr "PSG förförstärkare nivå"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "FM Preamp Level"
-msgstr ""
+msgstr "FM-förförstärkare Nivå"
 
 msgctxt "#30026"
 msgid "CD-DA Volume"
-msgstr ""
+msgstr "CD-DA-volym"
 
 msgctxt "#30027"
 msgid "PCM Volume"
-msgstr ""
+msgstr "PCM-volym"
 
 msgctxt "#30028"
 msgid "EQ Low"
-msgstr ""
+msgstr "EQ Låg"
 
 msgctxt "#30029"
 msgid "EQ Mid"
-msgstr ""
+msgstr "EQ Mid"
 
 msgctxt "#30030"
 msgid "EQ High"
-msgstr ""
+msgstr "EQ Hög"
 
+#, fuzzy
 msgctxt "#30031"
 msgid "Light Gun Input"
-msgstr ""
+msgstr "Ingång för ljuspistol"
 
 msgctxt "#30032"
 msgid "Show Light Gun Crosshair"
-msgstr ""
+msgstr "Visa ljuspistolens hårkors"
 
+#, fuzzy
 msgctxt "#30033"
 msgid "Invert Mouse Y-Axis"
-msgstr ""
+msgstr "Invertera musens Y-axel"
 
+#, fuzzy
 msgctxt "#30034"
 msgid "Remove Per-Line Sprite Limit"
-msgstr ""
+msgstr "Ta bort spritebegränsning per rad"
 
+#, fuzzy
 msgctxt "#30035"
 msgid "Enhanced per-tile vertical scroll"
-msgstr ""
+msgstr "Förbättrad vertikal scroll per bricka"
 
+#, fuzzy
 msgctxt "#30036"
 msgid "Enhanced per-tile vertical scroll limit"
-msgstr ""
+msgstr "Förbättrad begränsning av vertikal scrollning per yta"
 
 msgctxt "#30037"
 msgid "CPU Speed"
-msgstr ""
+msgstr "CPU-hastighet"
 
 msgctxt "#30038"
 msgid "System Lock-Ups"
-msgstr ""
+msgstr "Systemlåsningar"
 
 msgctxt "#30039"
 msgid "68K Address Error"
-msgstr ""
+msgstr "68K adressfel"
 
+#, fuzzy
 msgctxt "#30041"
 msgid "PSG Tone Channel 0 Volume %"
-msgstr ""
+msgstr "PSG Tone Kanal 0 Volym %"
 
+#, fuzzy
 msgctxt "#30042"
 msgid "PSG Tone Channel 1 Volume %"
-msgstr ""
+msgstr "PSG-ton Kanal 1 Volym %"
 
+#, fuzzy
 msgctxt "#30043"
 msgid "PSG Tone Channel 2 Volume %"
-msgstr ""
+msgstr "PSG-ton Kanal 2 Volym %"
 
+#, fuzzy
 msgctxt "#30044"
 msgid "PSG Noise Channel 3 Volume %"
-msgstr ""
+msgstr "PSG Buller Kanal 3 Volym %"
 
+#, fuzzy
 msgctxt "#30045"
 msgid "Mega Drive/Genesis FM Channel 0 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM Kanal 0 Volym %"
 
+#, fuzzy
 msgctxt "#30046"
 msgid "Mega Drive/Genesis FM Channel 1 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM Kanal 1 Volym%"
 
+#, fuzzy
 msgctxt "#30047"
 msgid "Mega Drive/Genesis FM Channel 2 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM Kanal 2 Volym %"
 
+#, fuzzy
 msgctxt "#30048"
 msgid "Mega Drive/Genesis FM Channel 3 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM Kanal 3 Volym%"
 
+#, fuzzy
 msgctxt "#30049"
 msgid "Mega Drive/Genesis FM Channel 4 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM Kanal 4 Volym%"
 
+#, fuzzy
 msgctxt "#30050"
 msgid "Mega Drive/Genesis FM Channel 5 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM Kanal 5 Volym%"
 
+#, fuzzy
 msgctxt "#30051"
 msgid "Master System FM (YM2413) Channel 0 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 0 Volym %"
 
+#, fuzzy
 msgctxt "#30052"
 msgid "Master System FM (YM2413) Channel 1 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 1 Volym %"
 
+#, fuzzy
 msgctxt "#30053"
 msgid "Master System FM (YM2413) Channel 2 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 2 Volym %"
 
+#, fuzzy
 msgctxt "#30054"
 msgid "Master System FM (YM2413) Channel 3 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 3 Volym %"
 
+#, fuzzy
 msgctxt "#30055"
 msgid "Master System FM (YM2413) Channel 4 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 4 Volym %"
 
+#, fuzzy
 msgctxt "#30056"
 msgid "Master System FM (YM2413) Channel 5 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 5 Volym %"
 
+#, fuzzy
 msgctxt "#30057"
 msgid "Master System FM (YM2413) Channel 6 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 6 Volym %"
 
+#, fuzzy
 msgctxt "#30058"
 msgid "Master System FM (YM2413) Channel 7 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 7 Volym %"
 
+#, fuzzy
 msgctxt "#30059"
 msgid "Master System FM (YM2413) Channel 8 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) Kanal 8 Volym %"
 
 msgctxt "#30060"
 msgid "Force VDP Mode"
-msgstr ""
+msgstr "Tvinga VDP-läge"
 
+#, fuzzy
 msgctxt "#30061"
 msgid "CD Access Time"
-msgstr ""
+msgstr "CD-åtkomsttid"
 
 msgctxt "#30062"
 msgid "CD Image Cache"
-msgstr ""
+msgstr "Cache för CD-avbildning"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
