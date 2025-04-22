@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.genplus\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-04-22 22:51+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-genplus/sv_se/>\n"
 "Language: sv_se\n"
@@ -37,10 +37,9 @@ msgctxt "#30002"
 msgid "System Region"
 msgstr "Systemregion"
 
-#, fuzzy
 msgctxt "#30003"
 msgid "System Boot ROM"
-msgstr "Systemets start-ROM"
+msgstr "Systemets uppstarts-ROM"
 
 #, fuzzy
 msgctxt "#30004"
