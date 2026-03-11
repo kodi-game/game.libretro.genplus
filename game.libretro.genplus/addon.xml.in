@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.genplus"
 		name="Sega - MS/GG/MD/CD (Genesis Plus GX)"
-		version="1.7.4.73"
+		version="1.7.4.74"
 		provider-name="Charles McDonald, Eke-Eke">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,7 @@
 		<extensions>m3u|mdx|md|smd|gen|bin|cue|iso|chd|bms|sms|gg|sg|68k|sgd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<supports_disc_control>true</supports_disc_control>
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
