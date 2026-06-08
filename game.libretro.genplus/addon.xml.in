@@ -34,6 +34,7 @@
 		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="es_ES">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="ga">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
+		<summary lang="ru_RU">Sega — MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="sv_SE">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="zh_CN">世嘉 - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<description lang="da_DK">Genesis Plus GX er en forbedret port af Genesis Plus til libretro API.[CR][CR]Understøtter SG-1000, Mark-III, Master System, Game Gear, Mega Drive og Mega CD hardware.</description>
@@ -42,6 +43,7 @@
 		<description lang="es_ES">Genesis Plus GX es una adaptación mejorada de Genesis Plus a la API libretro[CR][CR]Compatible con el hardware SG-1000, Mark-III, Master System, Game Gear, Mega Drive y Mega CD.</description>
 		<description lang="ga">Is port feabhsaithe de Genesis Plus chuig API libretro é Genesis Plus GX.[CR][CR]Tacaíonn sé le crua-earraí SG-1000, Mark-III, Master System, Game Gear, Mega Drive agus Mega CD.</description>
 		<description lang="it_IT">Genesis Plus GX è un port avanzato di Genesis Plus per l&apos;API libretro.[CR][CR]Include il supporto per l&apos;hardware SG-1000, Mark-III, Master System, Game Gear, Mega Drive e Mega CD.</description>
+		<description lang="ru_RU">Genesis Plus GX — это улучшенный порт Genesis Plus на API libretro.[CR][CR]Поддерживается оборудование SG-1000, Mark-III, Master System, Game Gear, Mega Drive и Mega CD.</description>
 		<description lang="sv_SE">Genesis Plus GX är en förbättrad portning av Genesis Plus till libretro API[CR][CR]Med stöd för hårdvarorna SG-1000, Mark-III, Master System, Game Gear, Mega Drive och Mega CD.</description>
 		<description lang="zh_CN">Genesis Plus GX 是 Genesis Plus 到 libretro API 的增强移植。[CR][CR]支持 SG-1000、Mark III、Master System、Game Gear、Mega Drive 和 Mega CD 硬件。</description>
 		<disclaimer lang="da_DK">Særlig tak til twinaphex for backporting-forbedringer fra GX-versionen</disclaimer>
