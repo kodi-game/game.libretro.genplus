@@ -31,12 +31,14 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="es_ES">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="ga">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="ru_RU">Sega — MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="sv_SE">Sega - MS/GG/MD/CD (Genesis Plus GX)</summary>
 		<summary lang="zh_CN">世嘉 - MS/GG/MD/CD (Genesis Plus GX)</summary>
+		<description lang="cs_CZ">Genesis Plus GX je vylepšený port Genesis Plus pro API Libretro.[CR][CR]Podporuje hardware SG-1000, Mark-III, Master System, Game Gear, Mega Drive a Mega CD.</description>
 		<description lang="da_DK">Genesis Plus GX er en forbedret port af Genesis Plus til libretro API.[CR][CR]Understøtter SG-1000, Mark-III, Master System, Game Gear, Mega Drive og Mega CD hardware.</description>
 		<description lang="de_DE">Genesis Plus GX ist eine erweiterte Umsetzung von Genesis Plus auf die Libretro-API und bietet Unterstützung für SG-1000, Mark-III, Master System, Game Gear, Mega Drive und Mega CD Hardware.</description>
 		<description lang="en_GB">Genesis Plus GX is an enhanced port of Genesis Plus to the libretro API.[CR][CR]Features support for SG-1000, Mark-III, Master System, Game Gear, Mega Drive and Mega CD hardware.</description>
@@ -46,6 +48,7 @@
 		<description lang="ru_RU">Genesis Plus GX — это улучшенный порт Genesis Plus на API libretro.[CR][CR]Поддерживается оборудование SG-1000, Mark-III, Master System, Game Gear, Mega Drive и Mega CD.</description>
 		<description lang="sv_SE">Genesis Plus GX är en förbättrad portning av Genesis Plus till libretro API[CR][CR]Med stöd för hårdvarorna SG-1000, Mark-III, Master System, Game Gear, Mega Drive och Mega CD.</description>
 		<description lang="zh_CN">Genesis Plus GX 是 Genesis Plus 到 libretro API 的增强移植。[CR][CR]支持 SG-1000、Mark III、Master System、Game Gear、Mega Drive 和 Mega CD 硬件。</description>
+		<disclaimer lang="cs_CZ">Zvláštní poděkování patří twinaphexovi za backportování vylepšení z verze GX</disclaimer>
 		<disclaimer lang="da_DK">Særlig tak til twinaphex for backporting-forbedringer fra GX-versionen</disclaimer>
 		<disclaimer lang="de_DE">Besonderen Dank an twinaphex für die Rückportierung von Erweiterungen aus der GX-Version</disclaimer>
 		<disclaimer lang="en_GB">Special thanks to twinaphex for backporting enhancements from the GX version</disclaimer>
