@@ -131,10 +131,10 @@
 					<constraints>
 						<options>
 							<option label="30066">auto</option>
-							<option>NTSC PAR</option>
-							<option>PAL PAR</option>
-							<option>4:3</option>
-							<option>Uncorrected</option>
+							<option label="30209">NTSC PAR</option>
+							<option label="30210">PAL PAR</option>
+							<option label="30211">4:3</option>
+							<option label="30212">Uncorrected</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -307,7 +307,7 @@
 						<options>
 							<option label="13106">disabled</option>
 							<option label="30143">low-pass</option>
-							<option>EQ</option>
+							<option label="30213">EQ</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
